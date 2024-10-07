@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Junior CyberSecurity Analyst & Cybersecurity Enthusiast.<br>Proficient in Linux and Python.<br>Eager to learn and contribute to organizational security
+I'm Junior CyberSecurity Analyst & Cybersecurity Enthusiast. Proficient in Linux and Python. Eager to learn and contribute to organizational security
 
 
 ## 🌐 Socials:
